@@ -11,8 +11,8 @@ Atualmente sou estagiario de Desenvolvimento Web Front-end no CIn da UFPE, onde 
  <hr>
 <div align="center">
   
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FidelisXX"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelisXX"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=FidelisXX"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelisXX"/>
 </div>
  
   
