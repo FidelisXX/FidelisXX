@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif"&color=0141255&size=30&center=true&vCenter=true&width=1000px&height=40&lines=Welcome+to+my+profile!)
 
 <div align='center'>
-<img align="center" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
+<img align="center" src="![Hand coding-bro](https://github.com/FidelisXX/FidelisXX/assets/76071952/39b71a3b-6be2-47f6-a292-f2834d4303e7)" width="150px" height="150px"></a><br/>
 </div>
 <p>Olá, me chamo Davi Fidelis!
   
