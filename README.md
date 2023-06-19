@@ -26,7 +26,7 @@ Atualmente sou estagiario de Desenvolvimento Web Front-end no CIn da UFPE, onde 
  <img align="center" alt="Davi-docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/919/919853.png">
  <img align="center" alt="Davi-mySQL" height="40" width="40" src="https://img.icons8.com/color/512/my-sql.png">
  <img align="center" alt="Davi-TS" height="40" width="40" src="https://img.icons8.com/fluency/512/typescript.png">
- <img align="center" alt="Davi-Vue" height="40" width="40" src="https://img.icons8.com.br/icon/rY6agKizO9eb/vue-js">
+ <img align="center" alt="Davi-Vue" height="40" width="40" src="https://github.com/FidelisXX/FidelisXX/assets/76071952/6a711a7c-7d71-415d-b43a-2c5c91a487c9">
   
 </div>
   
