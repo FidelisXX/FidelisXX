@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif"&color=0141255&size=30&center=true&vCenter=true&width=1000px&height=40&lines=Welcome+to+my+profile!)
 
 <div align='center'>
-<img align="center" src="![Hand coding-bro](https://github.com/FidelisXX/FidelisXX/assets/76071952/39b71a3b-6be2-47f6-a292-f2834d4303e7)" width="150px" height="150px"></a><br/>
+<img align="center" src="https://github.com/FidelisXX/FidelisXX/assets/76071952/39b71a3b-6be2-47f6-a292-f2834d4303e7" width="150px" height="150px"></a><br/>
 </div>
 <p>Olá, me chamo Davi Fidelis!
   
@@ -42,5 +42,5 @@ Atualmente sou estagiario de Desenvolvimento Web Front-end no CIn da UFPE, onde 
  
  
 <div align="center">
-  
+    <img alt="foto-capa" height="100%" width="100%" src="https://github.com/FidelisXX/FidelisXX/assets/76071952/a9359bf5-1921-4c60-8ff9-310ee6a760ff">
 </div>
