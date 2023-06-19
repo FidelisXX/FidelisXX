@@ -10,11 +10,11 @@ Atualmente sou estagiario de Desenvolvimento Web Front-end no CIn da UFPE, onde 
                                                                                                                                      
  <hr>
 <div align="center">
-  <a href="https://github.com/FidelisXX">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FidelisXX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelisXX&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FidelisXX"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelisXX"/>
+</div>
+ 
   
 <!--  LINGUAGENS -->
   
