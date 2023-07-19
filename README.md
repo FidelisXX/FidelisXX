@@ -44,3 +44,5 @@ Atualmente sou estagiario de Desenvolvimento Web Front-end no CIn da UFPE, onde 
 <div align="center">
     <img alt="foto-capa" height="100%" width="100%" src="https://github.com/FidelisXX/FidelisXX/assets/76071952/a9359bf5-1921-4c60-8ff9-310ee6a760ff">
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FidelisXX&bg_color=171515&color=ffffff&line=ffffff&point=05e5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
