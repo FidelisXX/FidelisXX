@@ -9,12 +9,17 @@ Atualmente sou estagiario de Desenvolvimento Web Front-end no CIn da UFPE, onde 
 <br>
                                                                                                                                      
  <hr>
+
+
+ <!--My lv-->
+ <h2 align="center"> ⚡ My Status ⚡ </h2>
 <div align="center">
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=FidelisXX"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelisXX"/>
-</div>
- 
+  <img width=390 src="https://streak-stats.demolab.com/?user=FidelisXX&count_private=true&react&theme=react&border_radiu=10" alt="streal stats"/>
+  <img width=357 src="https://github-readme-stats-salesp07.vercel.app/api?username=FidelisXX&count_private=true&show_icons=github&theme=react&rank_icon=true&border_darius=10" alt="readme stats"/>
+<br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=FidelisXX&hide=HTML&langs_count_8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+
+  </div>
   
 <!--  LINGUAGENS -->
   
